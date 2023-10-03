@@ -4,7 +4,7 @@
 
 ### Step 1 - Using Codeblocks [<sup>[1]</sup>](#references)
 
-Codeblocks in markdown make it very easy for **tech** people to _copy_, _paste_, _share_ code.
+Codeblocks in markdown make it very easy for **tech** people to _copy_, _paste_, _share_ code. [^1]:
 
 A good __Cloud Engineer__ uses _**Codeblocks**_ whenever possible.
 
@@ -77,6 +77,29 @@ rescue ZeroDivisionError => e
 end
 ```
 
+## Step 2 - How to take screenshots 
+
+when you can always provide a codeblock instead of a screenshot. if you need to take a screenshot, make sure it is not a photo from your phone
+
+> There are certain cases where it is okay to take photos with your phone, this is when you are showing something like a keyboard, which does not appear on the screen. if it is rendered on your computer screen, then it should be a screenshot.
+
+
+
+- A screenshot is whem you capture a part of your screen from your laptop, desktop or phone.
+  this is not to be confused with taking a picture with your phone
+
+**Don't do this**
+
+![wrong way of taking screenshot](assest/taking-photo.jpg)
+
+
+This is what a screenshot from your computer should look like
+
+**Do this instead**
+
+![screenshot example](assest/screenshot.png)
+
+
 ## Step 3 - Use Github Flavored Markdown Task list
 
 Github extends Markdown to have a list where you can check off items <sup> [3] </sup>
@@ -108,10 +131,16 @@ Github Markdown has it's ways of writing tables, you can use the following markd
 ```
 Github extends the functionality of Markdown tables to provide more aligment and table cell formatting options.
 
+
+## Step 6 Another method of adding images to GFM
+
+![screenshot for aws cloud practioner exams](assest/IMG_2780.jpeg)
+
+
 ## References 
 1. [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <sup> [1] </sup>
 1. [GFM - Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) <sup> [2] </sup>
 1. [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup> [3] </sup>
 1. [GFM - Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github)
 2. [GFM - How to Write Tables](https://github.github.com/gfm/#tables-extension-) <sup> [4] </sup>
-3. [GFM - Spec Sheet](https://github.github.com/gfm/)
+[^1]: [GFM - Spec Sheet](https://github.github.com/gfm/)
