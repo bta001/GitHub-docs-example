@@ -2,7 +2,7 @@
 
 ## Writing Good Documentation
 
-### Step 1 - Using Codeblocks [<sup> [1] </sup>](#references)
+### Step 1 - Using Codeblocks [<sup>[1]</sup>](#references)
 
 Codeblocks in markdown make it very easy for **tech** people to _copy_, _paste_, _share_ code.
 
