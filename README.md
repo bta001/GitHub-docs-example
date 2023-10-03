@@ -137,6 +137,10 @@ Github extends the functionality of Markdown tables to provide more aligment and
 ![screenshot for aws cloud practioner exams](assest/IMG_2780.jpeg)
 
 
+
+**How to link a page in github**
+[secret window hidden garden](secret-window/hidden.garden.md)
+
 ## References 
 1. [Basic writing and formatting syntax (Github Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <sup> [1] </sup>
 1. [GFM - Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) <sup> [2] </sup>
